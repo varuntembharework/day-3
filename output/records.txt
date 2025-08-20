@@ -1,0 +1,18 @@
+Name: Alica Johnson
+Subjects: 3
+Marks: 95, 88, 76
+Average: 86.33
+Grade: B
+------------------------
+Name: Rahul Sharma
+Subjects: 5
+Marks: 45, 67, 72, 81, 55
+Average: 64.00
+Grade: C
+------------------------
+Name: Maria Lopez
+Subjects: 2
+Marks: 98, 92
+Average: 95.00
+Grade: A
+------------------------
